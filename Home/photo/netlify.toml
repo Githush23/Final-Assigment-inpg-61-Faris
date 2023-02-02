@@ -1,0 +1,5 @@
+
+[[redirects]]
+from = "/*"
+to = "img"
+status = 200
